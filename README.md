@@ -6,3 +6,6 @@
 
 # 포도 백과
 포도의 지식 백과!
+
+
+[포도 유튜브](https://github.com/grape82/GrapeWiki/blob/main/Wiki/Youtuber/grape82.md)
